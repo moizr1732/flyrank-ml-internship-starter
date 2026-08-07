@@ -1,1 +1,2 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://flyrank-search-capstone.vercel.app/
+https://github.com/moizr1732/flyrank-search-capstone
